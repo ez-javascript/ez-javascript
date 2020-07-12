@@ -1,16 +1,17 @@
-### Hi there 👋
+```
+  ______ ______       _                   _____           _       _   
+ |  ____|___  /      | |                 / ____|         (_)     | |  
+ | |__     / /       | | __ ___   ____ _| (___   ___ _ __ _ _ __ | |_ 
+ |  __|   / /    _   | |/ _` \ \ / / _` |\___ \ / __| '__| | '_ \| __|
+ | |____ / /__  | |__| | (_| |\ V / (_| |____) | (__| |  | | |_) | |_ 
+ |______/_____|  \____/ \__,_| \_/ \__,_|_____/ \___|_|  |_| .__/ \__|
+                                                           | |        
+                                                           |_|        
+```
 
-<!--
-**ez-javascript/ez-javascript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome 👋
 
-Here are some ideas to get you started:
+This is the official GitHub repository for [@ez.javascript](https://instagram.com/ez.javascript) on Instagram.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Instagram](https://instagram.com/ez.javascript)
+- [GitHub Gists](https://gist.github.com/ez-javascript)
