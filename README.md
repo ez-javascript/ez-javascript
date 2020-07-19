@@ -9,7 +9,7 @@
                                                            |_|        
 ```
 
-### Welcome 👋
+### Welcome! 👋
 
 This is the official GitHub repository for [@ez.javascript](https://instagram.com/ez.javascript) on Instagram.
 
