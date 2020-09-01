@@ -12,6 +12,10 @@
 ### Welcome! 👋
 
 This is the official GitHub repository for [@ez.javascript](https://instagram.com/ez.javascript) on Instagram.
+<br/>
+My aim is to make understanding JavaScript as easy as possible.
+
+---
 
 - [Instagram](https://instagram.com/ez.javascript)
 - [GitHub Gists](https://gist.github.com/ez-javascript)
