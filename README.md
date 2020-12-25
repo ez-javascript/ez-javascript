@@ -17,5 +17,6 @@ My aim is to make understanding JavaScript as easy as possible.
 
 ---
 
+- [Medium](https://medium.com/@ez-javsacript)
 - [Instagram](https://instagram.com/ez.javascript)
 - [GitHub Gists](https://gist.github.com/ez-javascript)
